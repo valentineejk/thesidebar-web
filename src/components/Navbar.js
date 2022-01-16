@@ -21,5 +21,5 @@ const Navbar=() => {
         </nav>
     )
 }
-
+//ejk
 export default Navbar;

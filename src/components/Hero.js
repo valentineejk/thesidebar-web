@@ -17,5 +17,6 @@ const Hero=() => {
         </div>
     );
 };
+//vejk
 
 export default Hero;
