@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="124" height="62" viewBox="0 0 124 62">
+  <defs>
+    <clipPath id="clip-Sidelogo">
+      <rect width="124" height="62"/>
+    </clipPath>
+  </defs>
+  <g id="Sidelogo" clip-path="url(#clip-Sidelogo)">
+    <text id="TheSideBar" transform="translate(1 48)" font-size="50" font-family="WireOne, Wire One"><tspan x="0" y="0">TheSideBar</tspan></text>
+    <text id="By_MISKAY" data-name="By MISKAY" transform="translate(88 55)" font-size="5.5" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="0" y="0">By MISKAY</tspan></text>
+  </g>
+</svg>
